@@ -1,0 +1,49 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    font-weight: bold;
+}
+a:visited{
+    color:lightcoral;
+}
+a:active {
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+    font-family: 'Hepta Slab', serif;
+}
+
+footer {
+    text-align: center;
+}
+
+.bodybg {
+    background-color: lightcoral;
+    text-align: center;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
+th {
+    text-align: left;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.carousel-caption {
+    color: black;
+}
